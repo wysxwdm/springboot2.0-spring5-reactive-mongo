@@ -1,0 +1,16 @@
+server:
+  port: 80
+  address: localhost
+  
+spring:
+  application:
+    name: spring5
+    
+  data:
+    mongodb:
+      host: 47.100.201.132
+      database: reactive-mongo
+      port: 27017
+#      uri: mongodb://47.100.201.132:27017/reactive-mongo
+      
+      
